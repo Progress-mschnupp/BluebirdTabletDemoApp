@@ -1,9 +1,9 @@
 {
-  "ProjectName": "Bluebird Tablet Demo Application",
+  "ProjectName": "Bluebird Tablet Demo App",
   "ProjectGuid": "2e0b4bcd-8953-49a1-90b2-3b3eaa135732",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.BluebirdTabletDemoApplication",
-  "DisplayName": "Bluebird Tablet Demo Application",
+  "AppIdentifier": "com.telerik.BluebirdTabletDemoApp",
+  "DisplayName": "Bluebird Tablet Demo App",
   "Author": "",
   "Description": "",
   "BundleVersion": "1.0",
